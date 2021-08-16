@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(23, 180, 120);
+}
+
+.sosyal-medya {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.sosyal-medya div{
+    display: inline;
+}
+
+.sosyal-medya div a {
+    display: inline-flex;
+    width: 80px;
+    height: 80px;
+    color: white;
+    background: rgb(23, 180, 120);
+    font-size: 45px;
+    margin: 0 6px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.sosyal-medya .instagram a:hover{
+    background-color: #8a3ab9;
+}
+
+.sosyal-medya .discord a:hover{
+    background-color: #7289da;
+}
+
+.sosyal-medya .github a:hover{
+    background-color: #6e5494;
+}
+
+.sosyal-medya .linkedin a:hover{
+    background-color: #0077b5;
+}
