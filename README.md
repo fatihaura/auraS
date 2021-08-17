@@ -1,2 +1,0 @@
-# fatihaura.github.io
-
