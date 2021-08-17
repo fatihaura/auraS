@@ -47,3 +47,7 @@ body {
 .sosyal-medya .reddit a:hover{
     background-color: #FF5700;
 }
+
+.sosyal-medya .steam a:hover{
+    background-color: #171a21;
+}
